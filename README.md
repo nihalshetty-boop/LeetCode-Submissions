@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -87,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
