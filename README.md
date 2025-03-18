@@ -139,4 +139,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/2195-time-needed-to-buy-tickets) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
