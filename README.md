@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
