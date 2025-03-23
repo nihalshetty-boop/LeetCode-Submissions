@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0875-longest-mountain-in-array) |
 ## Two Pointers
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
