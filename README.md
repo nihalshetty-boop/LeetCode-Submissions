@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0338-counting-bits) |
+| [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -304,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
