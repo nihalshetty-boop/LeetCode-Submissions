@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0078-subsets) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
