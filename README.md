@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0322-coin-change) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
