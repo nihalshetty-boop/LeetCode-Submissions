@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0338-counting-bits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0875-longest-mountain-in-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0875-longest-mountain-in-array) |
 ## Two Pointers
