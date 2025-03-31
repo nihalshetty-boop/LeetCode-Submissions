@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0078-subsets) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
 ## Backtracking
 |  |
