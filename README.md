@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0875-longest-mountain-in-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0875-longest-mountain-in-array) |
+| [0907-koko-eating-bananas](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1306-minimum-absolute-difference) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0907-koko-eating-bananas](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
