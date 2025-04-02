@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
