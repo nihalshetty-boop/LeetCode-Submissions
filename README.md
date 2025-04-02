@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0394-decode-string) |
+| [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
+| [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -343,4 +347,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
