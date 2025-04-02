@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0322-coin-change) |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
