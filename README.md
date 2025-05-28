@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
 ## Backtracking
