@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [1285-balance-a-binary-search-tree](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
