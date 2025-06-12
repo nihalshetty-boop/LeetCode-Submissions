@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0875-longest-mountain-in-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -381,4 +383,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
