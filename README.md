@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0875-longest-mountain-in-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0875-longest-mountain-in-array) |
+| [0883-car-fleet](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
+| [0883-car-fleet](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1306-minimum-absolute-difference) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0883-car-fleet) |
 | [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -384,4 +387,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
