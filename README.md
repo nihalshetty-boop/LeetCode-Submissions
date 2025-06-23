@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1023-time-based-key-value-store](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
+| [1023-time-based-key-value-store](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
+| [1023-time-based-key-value-store](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
 ## Backtracking
 |  |
 | ------- |
