@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1023-time-based-key-value-store](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0394-decode-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
 | [1023-time-based-key-value-store](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/1023-time-based-key-value-store) |
 ## Backtracking
