@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Tree
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -420,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0883-car-fleet) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
