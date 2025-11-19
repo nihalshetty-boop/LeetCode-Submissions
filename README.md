@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0322-coin-change) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0907-koko-eating-bananas) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0800-letter-case-permutation) |
 ## Sorting
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/nihalshetty-boop/LeetCode-Submissions/tree/master/0875-longest-mountain-in-array) |
